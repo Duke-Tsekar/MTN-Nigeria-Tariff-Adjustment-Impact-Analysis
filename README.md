@@ -25,7 +25,6 @@ Insights and recommendations are provided on the following key areas:
 The SQL scripts used to setup and inspect the data for this analysis can be found here: [sql scripts](https://github.com/Duke-Tsekar/MTN-Nigeria-Tariff-Adjustment-Impact-Analysis/tree/main/sql%20scripts)
 
 The SQL scripts for the project's business questions are available in the folder below.
-
 **[View Business Question SQL Scripts](https://github.com/Duke-Tsekar/MTN-Nigeria-Tariff-Adjustment-Impact-Analysis/tree/main/business%20questions%20sql%20scripts)**
 
 - [BQ1 — Overall Impact](sql/BQ1_overall_impact.sql)
@@ -33,8 +32,7 @@ The SQL scripts for the project's business questions are available in the folder
 - [BQ3 — Customer Behaviour](sql/BQ3_customer_behaviour.sql)
 - [BQ4 — Service Performance](sql/BQ4_service_performance.sql)
 
-Excel was used to further analyse the results exported from PostgreSQL, including calculating percentage changes across the pre- and post-tariff adjustment periods.
-
+MS Excel was used to further analyze the results exported from PostgreSQL, including calculating percentage changes across the pre- and post-tariff adjustment periods.
 **[View Excel Analysis Files](excel%20analysis%20files/)**
 
 **Tools:** SQL(PostgreSQL), AI, Microsoft Excel, Github.
