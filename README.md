@@ -22,7 +22,7 @@ Insights and recommendations are provided on the following key areas:
 4. **Service Performance Analysis:** How did customer activity, transaction volume, and revenue performance differ across Mobile SIM, Broadband, and Fibre X services?
 
 
-The SQL queries used to inspect and clean the data for this analysis can be found here: [sql scripts](https://github.com/Duke-Tsekar/MTN-Nigeria-Tariff-Adjustment-Impact-Analysis/tree/main/sql%20scripts)
+The SQL scripts used to setup and inspect the data for this analysis can be found here: [sql scripts](https://github.com/Duke-Tsekar/MTN-Nigeria-Tariff-Adjustment-Impact-Analysis/tree/main/sql%20scripts)
 
 The SQL scripts used to answer these business questions are available in the [`sql/`](sql/) directory:
 
