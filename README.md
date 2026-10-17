@@ -24,7 +24,7 @@ Insights and recommendations are provided on the following key areas:
 
 The SQL scripts used to setup and inspect the data for this analysis can be found here: [sql scripts](https://github.com/Duke-Tsekar/MTN-Nigeria-Tariff-Adjustment-Impact-Analysis/tree/main/sql%20scripts)
 
-The SQL scripts used to answer these business questions are available in the [`sql/`](sql/) directory:
+The SQL scripts used to answer these business questions are available in the [[`sql/`](sql/) directory:](https://github.com/Duke-Tsekar/MTN-Nigeria-Tariff-Adjustment-Impact-Analysis/tree/main/business%20questions%20sql%20scripts)
 
 - [BQ1 — Overall Impact](sql/BQ1_overall_impact.sql)
 - [BQ2 — Plan Performance](sql/BQ2_plan_performance.sql)
