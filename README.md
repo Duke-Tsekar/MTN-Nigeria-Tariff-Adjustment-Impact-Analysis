@@ -71,25 +71,25 @@ Plan-level results varied considerably, customer activity was not uniform, and s
 
 ## Overall Tariff Adjustment Impact
 
-- **Transaction activity declined.** Recorded transactions fell from 560,000 before the adjustment to 440,000 afterward, a decrease of 21.43%. Average daily transactions declined by 28.39%, from 7,777.78 to 5,569.62.
+- **Transaction activity declined.** Recorded transactions fell from **560,000** before the adjustment to **440,000** afterward, a decrease of **21.43%**. Average daily transactions declined by **28.39%**, from **7,777.78** to **5,569.62**.
 
-- **Recorded customer participation decreased.** Active customers fell from 286,958 to 225,829, representing a 21.30% decline between the periods.
+- **Recorded customer participation decreased.** Active customers fell from **286,958** to **225,829**, representing a **21.30%** decline between the periods.
 
-- **Total revenue increased, but the period lengths differ.** Transaction revenue rose from ₦3.203 billion to ₦3.463 billion, an increase of 8.14%. Because the post-adjustment period covers 79 days compared with 72 days before the adjustment, this increase should not be interpreted on its own as improved underlying performance.
+- **Total revenue increased, but the period lengths differ.** Transaction revenue rose from **₦3.203 billion** to **₦3.463 billion**, an increase of **8.14%**. Because the post-adjustment period covers **79 days** compared with **72** days before the adjustment, this increase should not be interpreted on its own as improved underlying performance.
 
-- **Average transaction value increased while daily revenue softened.** Average transaction value rose by 37.63%, from ₦5,719.11 to ₦7,871.40. Meanwhile, average daily revenue declined by 1.44%. The combination indicates that higher revenue per transaction did not translate into higher average daily revenue in this dataset.
+- **Average transaction value increased while daily revenue softened.** Average transaction value rose by **37.63%**, from **₦5,719.11 **to **₦7,871.40**. Meanwhile, average daily revenue declined by **1.44%**. The combination indicates that higher revenue per transaction did not translate into higher average daily revenue in this dataset.
 
 **Business conclusion:** The increase in average transaction value was accompanied by lower transaction frequency and customer participation. Commercial performance should therefore be assessed using revenue, daily activity, and customer participation together.
 
 ## Plan Performance Analysis
 
-- **The Monthly 75GB plan recorded substantial growth.** Transactions increased from 23,266 to 54,391 (+133.78%), while recorded customers increased from 17,692 to 40,186 (+127.14%). Revenue rose from ₦372.256 million to ₦979.038 million (+163.00%).
+- **The Monthly 75GB plan recorded substantial growth.** Transactions increased from **23,266** to **54,391 (+133.78%)**, while recorded customers increased from **17,692** to **40,186 (+127.14%)**. Revenue rose from **₦372.256 million** to **₦979.038 million (+163.00%)**.
 
-- **The Monthly 75GB plan also recorded strong daily demand growth.** Average daily transactions increased by 113.06%, average daily customers by 113.08%, and average daily revenue by 139.70%. These daily measures account for the unequal lengths of the comparison periods.
+- **The Monthly 75GB plan also recorded strong daily demand growth.** Average daily transactions increased by **113.06%**, average daily customers by **113.08%**, and average daily revenue by **139.70%**. These daily measures account for the unequal lengths of the comparison periods.
 
-- **The BB Yearly 1.5TB plan recorded strong revenue growth.** Transactions increased from 498 to 978 (+96.39%), customers increased from 492 to 963 (+95.73%), and revenue increased from ₦74.7 million to ₦220.05 million (+194.58%).
+- **The BB Yearly 1.5TB plan recorded strong revenue growth.** Transactions increased from **498** to **978 (+96.39%)**, customers increased from **492** to **963 (+95.73%)**, and revenue increased from **₦74.7 million** to **₦220.05 million (+194.58%)**.
 
-- **Plan-level changes were not uniform.** The 2-Day 2GB plan recorded a 44.72% increase in transactions and a 46.03% increase in customers, while the Daily 1GB plan experienced a 7% decline in transactions. This highlights the need to assess performance at individual plan level rather than assuming all plans respond similarly.
+- **Plan-level changes were not uniform.** The 2-Day 2GB plan recorded a **44.72%** increase in transactions and a **46.03%** increase in customers, while the Daily 1GB plan experienced a **7%** decline in transactions. This highlights the need to assess performance at individual plan level rather than assuming all plans respond similarly.
 
 **Business conclusion:** The Monthly 75GB and BB Yearly 1.5TB plans are important candidates for further commercial investigation based on their observed growth. The Daily 1GB decline also warrants investigation. These results do not, by themselves, establish why demand changed or whether the patterns will persist.
 
