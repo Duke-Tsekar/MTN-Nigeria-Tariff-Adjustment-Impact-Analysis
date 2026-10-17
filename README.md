@@ -33,6 +33,11 @@ The SQL scripts for the project's business questions are available in the folder
 - [BQ3 — Customer Behaviour](sql/BQ3_customer_behaviour.sql)
 - [BQ4 — Service Performance](sql/BQ4_service_performance.sql)
 
+Excel was used to further analyse the results exported from PostgreSQL, including calculating percentage changes across the pre- and post-tariff adjustment periods.
+
+- **[BQ1 — Overall Impact Analysis (Excel)](EXCEL_FILE_1_LINK)**
+- **[BQ2 — Plan Performance Analysis (Excel)](EXCEL_FILE_2_LINK)**
+
 **Tools:** SQL(PostgreSQL), AI, Microsoft Excel, Github.
 
 **Industry:** Telecommunications.
