@@ -1,5 +1,4 @@
-<ins>**Project Background**</ins>
-
+# **Project Background**
 
 MTN Nigeria is Nigeria's largest mobile network operator, selling mobile data and voice plans alongside fixed broadband and fibre services. Revenue is driven by how many customers are active, how often they buy, and how much each purchase is worth.
 
@@ -11,3 +10,7 @@ Insights and recommendations are provided on the following key areas:
 - **Plan Performance:** how hiked, unchanged, new, discontinued and rolled-back plans performed
 - **Customer Behaviour:** retention, stopped purchasing, and changes in how much retained customers buy
 - **Service Performance:** Mobile SIM, Fixed Broadband and Fibre compared
+
+The SQL queries used to inspect and clean the data for this analysis can be found here: ** **.
+
+The SQL queries answering each business question can be found here, one self-contained script per question:
