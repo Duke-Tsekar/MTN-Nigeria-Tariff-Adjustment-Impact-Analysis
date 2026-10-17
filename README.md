@@ -35,7 +35,7 @@ The SQL scripts for the project's business questions are available in the folder
 
 Excel was used to further analyse the results exported from PostgreSQL, including calculating percentage changes across the pre- and post-tariff adjustment periods.
 
-https://github.com/Duke-Tsekar/MTN-Nigeria-Tariff-Adjustment-Impact-Analysis/tree/main/excel%20analysis%20files
+**[View Excel Analysis Files](excel%20analysis%20files/)**
 
 **Tools:** SQL(PostgreSQL), AI, Microsoft Excel, Github.
 
