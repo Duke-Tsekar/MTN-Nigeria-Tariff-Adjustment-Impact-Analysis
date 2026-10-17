@@ -1,4 +1,4 @@
-**PROJECT BACKGROUND**
+**Project Background**
 
 MTN Nigeria is Nigeria's largest mobile network operator, selling mobile data and voice plans alongside fixed broadband and fibre services. Revenue is driven by how many customers are active, how often they buy, and how much each purchase is worth.
 
