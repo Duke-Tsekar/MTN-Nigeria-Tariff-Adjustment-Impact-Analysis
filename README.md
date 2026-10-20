@@ -157,3 +157,11 @@ The analysis uses several assumptions and has important limitations:
 
 
 
+## Assumptions and Caveats
+
+- **Synthetic data:** The dataset was AI-generated for portfolio purposes and does not represent actual MTN Nigeria customer or operational records.
+- **Scope of analysis:** The dataset focuses on data purchase transactions. Findings relate to recorded purchasing activity and revenue within the defined pre- and post-tariff adjustment periods.
+- **ARPU:** Traditional Average Revenue Per User could not be calculated because a reliable subscriber-base denominator was not available. Revenue per active purchasing customer was used instead and should not be interpreted as ARPU.
+- **Subscriber growth and churn:** These metrics were excluded because the available data does not establish reliable subscriber-base movements or confirmed disconnections.
+- **Operational and customer experience metrics:** Network uptime, 5G coverage, call duration, customer satisfaction, acquisition costs, and revenue per cell tower were outside the scope of the available dataset.
+- **Causal attribution:** Changes observed after the tariff adjustment are temporal comparisons, not proof that the adjustment alone caused those changes. Other factors were not independently controlled for.
